@@ -1,6 +1,8 @@
 # adventofcode2023
 
-Advent of Code 2023 challenges with C++.
+Advent of Code 2023 challenges with C++. 
+
+https://adventofcode.com/2023
 
 ## Goal
 
